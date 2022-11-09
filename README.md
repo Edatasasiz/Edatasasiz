@@ -4,7 +4,7 @@
 <br>
 
 
-🔭 I’m currently working on Javascript.
+🔭 I’m currently working on Javascript and React.js
 
 📫 How to reach me: edaavsar1@gmail.com
 
