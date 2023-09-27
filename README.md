@@ -10,8 +10,9 @@
 <br>
 📫 How to reach me: **edatasasiz1@gmail.com**
 
-
 <br>
+<br>
+
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -30,8 +31,7 @@
 <br>
 <br>
 <br>
-
-
+<br>
 
 ## 🚀 My projects on Kaggle :
 
@@ -66,6 +66,8 @@ https://www.kaggle.com/code/edatasasiz/a-b-testing-mobile-games
 https://www.kaggle.com/code/edatasasiz/breast-cancer-prediction-model
 <br>
 <br>
+
+
 
 **Feature Engineering - Diabetes**
 
