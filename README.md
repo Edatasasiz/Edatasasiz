@@ -1,12 +1,12 @@
-# Hi there , I'm Eda 👋
+# Hi there , I'm Eda Tasasız 👋
 
 <br>
 <br>
 
 
-🔭 I’m currently working on Python
-
-📫 How to reach me: edaavsar1@gmail.com
+🔭 I’m currently working on **Python**
+🚀 I’m am interested in **Python, Data Science, Machine Learning, Artificial Intelligence,**
+📫 How to reach me: **edatasasiz1@gmail.com**
 
 
 <br>
