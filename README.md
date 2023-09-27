@@ -1,7 +1,6 @@
 # Hi there , I'm Eda Tasasiz 👋
 
 <br>
-<br>
 
 
 🔭 I’m currently working on **Python**
@@ -10,7 +9,6 @@
 <br>
 📫 How to reach me: **edatasasiz1@gmail.com**
 
-<br>
 <br>
 
 
