@@ -13,7 +13,7 @@
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" align="left" style="max-width: 100%;">
@@ -33,7 +33,8 @@
 
 
 
-### 🚀 My projects on Kaggle :
+## 🚀 My projects on Kaggle :
+
 <br>
 
 **Data Exploration and Analysis**
