@@ -31,7 +31,7 @@
 <br>
 <br>
 
-## 🚀 My projects on Kaggle :
+# 🚀 My projects on Kaggle :
 
 <br>
 
