@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **Python**
 <br>
-🚀 I’m am interested in **Python, Data Science, Machine Learning, Artificial Intelligence,**
+🚀 I’m am interested in **Python, Data Science, Machine Learning, Artificial Intelligence**
 <br>
 📫 How to reach me: **edatasasiz1@gmail.com**
 
