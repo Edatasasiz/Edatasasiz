@@ -1,4 +1,4 @@
-# Hi there , I'm Eda Tasasız 👋
+# Hi there , I'm Eda Tasasiz 👋
 
 <br>
 <br>
