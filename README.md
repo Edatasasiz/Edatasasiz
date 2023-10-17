@@ -19,14 +19,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" align="left" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40" align="left" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" align="left" style="max-width: 100%;">
-
 <br>
 <br>
 <br>
 
-# 🚀 My projects on Kaggle :
+# 👩‍💻 My projects on Kaggle🚀: 
 
-<br>
 
 - **Airline Passengers Forecasting✈️**
 
