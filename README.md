@@ -1,7 +1,4 @@
-# Hi there, I'm Eda Tasasiz 👋
-
-<br>
-
+## Hi there, I'm Eda Tasasiz 👋
 
 🔭 I’m currently working on **Python**
 <br>
@@ -11,9 +8,7 @@
 
 <br>
 
-
-## :hammer_and_wrench: Languages and Tools :
-
+### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" align="left" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" align="left" style="max-width: 100%;">
@@ -25,8 +20,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40" align="left" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" align="left" style="max-width: 100%;">
 
-
-<br>
 <br>
 <br>
 <br>
