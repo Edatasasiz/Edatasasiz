@@ -35,9 +35,9 @@
 
 <br>
 
-- **Data Exploration and Analysis**
+- **Airline Passengers Forecasting✈️**
 
-https://www.kaggle.com/code/edatasasiz/data-exploration-and-analysis
+https://www.kaggle.com/code/edatasasiz/airline-passengers-forecasting
 <br>
 <br>
 
@@ -46,6 +46,7 @@ https://www.kaggle.com/code/edatasasiz/data-exploration-and-analysis
 https://www.kaggle.com/code/edatasasiz/telco-customer-churn-prediction
 <br>
 <br>
+
 
 - **Book Recommendation System**
 
@@ -59,19 +60,27 @@ https://www.kaggle.com/code/edatasasiz/a-b-testing-mobile-games
 <br>
 <br>
 
+
 - **Breast Cancer Prediction Model**
 
 https://www.kaggle.com/code/edatasasiz/breast-cancer-prediction-model
 <br>
 <br>
 
-
-
 - **Feature Engineering - Diabetes**
 
 https://www.kaggle.com/code/edatasasiz/feature-engineering-diabetes
 <br>
 <br>
+
+- **Data Exploration and Analysis**
+
+https://www.kaggle.com/code/edatasasiz/data-exploration-and-analysis
+<br>
+<br>
+
+
+
 
 
 
